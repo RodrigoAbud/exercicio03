@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculate Route and Time</string>
+    <string name="lat_long">Lat: %f Long: %f</string>
+    <string name="get_permission">Permission required to use GPS</string>
+    <string name="gps_inative">GPS is not enabled</string>
+    <string name="uri_mapa">geo: %f, %f?q=</string>
+    <string name="course_in_progress">Route in progress</string>
+    <string name="travelled_distance">Travelled Distance</string>
+    <string name="gps_permission_inactive">GPS permission: INACTIVE</string>
+    <string name="gps_permission_active">GPS permission: ACTIVE</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="disable_gps">Disable GPS</string>
+    <string name="start_route">Start Route</string>
+    <string name="finish_route">Finish Route</string>
+    <string name="reset">Reset</string>
+    <string name="search">What do you want to find?</string>
+    <string name="finished_route">Finished Route</string>
+    <string name="gps_must_be_enabled">GPS must be enabled</string>
+    <string name="started_route">Started Route</string>
+    <string name="gps_disable">GPS Disabled</string>
+    <string name="gps_enable">GPS Enabled</string>
+</resources>
